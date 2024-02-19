@@ -1,4 +1,4 @@
-langchain
+langchain==0.0.184
 PyPDF2
 python-dotenv
 streamlit
@@ -7,7 +7,7 @@ faiss-cpu
 altair
 tiktoken
 
-huggingface-hub==0.14.1
+huggingface-hub
 
 
 InstructorEmbedding
